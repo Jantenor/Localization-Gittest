@@ -1,0 +1,99 @@
+{
+  "0": [
+      "This is a test notification! Someone commented on your activity with the word \"test\""
+  ],
+  "1": [
+      "Looks like you haven't tracked an activity yet. Get out there and show us what you've got!",
+      "Need some help? RunKeeper audio cues can guide you through your first workout!"
+  ],
+  "2": [
+      "Need some help? RunKeeper audio cues can guide you through your first workout!",
+      "Looks like you haven't tracked an activity yet. Get out there and show us what you've got!"
+  ],
+  "3": [
+      "We haven't forgotten about you and it's not too late. Start tracking your workouts with RunKeeper today!",
+      "Not ready to start running? RunKeeper can track other activities like walking too!",
+      "Looks like you haven't tracked an activity yet. Get out there and show us what you've got!"
+  ],
+  "4": [
+      "Let's work out! You thought this was the perfect time a while back...remember?"
+  ],
+  "5": [
+      "Time to get moving! Your next workout is set for today and ready when you are."
+  ],
+  "6": [
+      "${name} wants to be friends"
+  ],
+  "7": [
+      "${name} accepted your friend request"
+  ],
+  "8": [
+      "${name} wants you to go for a ${activityTypeNoun}",
+      "${name} wants you to go for a ${activityTypeNoun}",
+      "${name} wants you to go for a ${activityTypeNoun}"
+  ],
+  "9": [
+      "It's that time again. Time to get out for an awesome workout that is.",
+      "It's that time again - let's get out there for a quick jaunt.",
+      "Let's get moving! The first step out the door is always the hardest.",
+      "We had a great workout last week - lets get back out there!",
+      "Exactly 7 days ago, you were working out. Lets make that happen again!",
+      "Bad weather keeping you indoors? Enter your workouts manually to keep your fitness story complete.",
+      "Exercising indoors? Enter your workouts manually to make sure they count!",
+      "Exercising without your phone? Make sure to log it with RunKeeper to make it count.",
+      "Not running right now? We're awesome at tracking just about any cardio activity... and also fairly modest.",
+      "We've got a fever, and the only prescription is more exercise"
+  ],
+  "10": [
+      "${name} commented on your ${distance}${distanceUnits} ${activityTypeNoun}"
+  ],
+  "11": [
+      "${name} liked your ${distance}${distanceUnits} ${activityTypeNoun}"
+  ],
+  "12": [
+      "Your friend ${name} just completed their first activity!"
+  ],
+  "14": [
+      "Don't lose the momentum! How about a quick workout to keep it going?",
+      "It's been two weeks since you worked out...another short session will feel great! Let's go!",
+      "A goal can keep you motivated when you don't feel like working out. Set one today!"
+  ],
+  "15": [
+      "A few more workouts and you'll be on a roll! Let's get back out there!",
+      "It's been a few weeks since you've worked out with us, ready to get back into it?",
+      "We've missed you this month. Kick things off again with a good workout!"
+  ],
+  "16": [
+      "Ready for a workout? We know you've got what it takes!",
+      "It's been a while. Why not try a new activity or new route to spice things up again?",
+      "We haven't worked out together in a while! How about a quick session to get reacquainted!"
+  ],
+  "17": [
+      "Hope you're feeling refreshed---now it's time to lace up those sneakers!",
+      "Time to get back into the swing of things! Even a short workout will do.",
+      "All good habits start with small choices. Why not get out there today?"
+  ],
+  "18": [
+      "Ready to get back into it? There's no better time than right now!",
+      "Getting up and out is the hardest part, but you won't regret it!",
+      "There's still plenty of time to hit your fitness goals. Get on it!"
+  ],
+  "19": [
+      "Motivation is the key to change. How about starting a new routine to stay fit?",
+      "How about a 10 minute workout? We think you'll be hooked!",
+      "Not sure where to begin again? Try a quick walk to get your blood pumping!"
+  ],
+  "21": [
+      "Your weekly summary is ready for review."
+  ],
+  "22": [
+      "${name} just completed a ${activityTypeNoun}"
+  ],
+  "23": [
+  	  "You have a new challenge available! Go check it out"
+  ],
+  "24": [
+  	  "Great work! You've completed the ${challengeName}!"
+  ]
+}
+
