@@ -1,3 +1,13 @@
+    "locales" : [
+        {
+            "smartling"   : "zh-CN",
+            "application" : "zh-Hans"
+        },
+        {
+            "smartling"   : "zh-TW",
+            "application" : "zh-Hant"
+        }
+    ],
 {
     "1a662452889947a8b19fb90a036d3cce": {
         "name": "#Olympic Day Challenge",
